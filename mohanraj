@@ -1,0 +1,13 @@
+{
+  "name": "ex3",
+  "version": "0.1.1",
+  "lockfileVersion": 3,
+  "requires": true,
+  "author": "Brendan",
+  "description": "censored words out of text",
+  "main": "censortext",
+  "packages": {},
+  "engines": {
+    "node": "**"
+  }
+}
